@@ -1,7 +1,7 @@
 ## Hi, I'm Yancy :sun_with_face:
 
 :school: Information Technology student at Cebu Technological University - Main<br/>
-:computer: Data Analyst at Staff Outsourcing Solutions<br/>
+:computer: Data Analyst<br/>
 :soon: I aspire to be a Data Scientist<br/>
 :rocket: Always learning and exploring new technologies to feed my curiosity.<br/>
 
